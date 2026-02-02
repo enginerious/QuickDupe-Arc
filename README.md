@@ -14,6 +14,8 @@ If you can improve this project, please do — I love the help of the community!
 
 ---
 
+![QuickDupe2.1 Demo](assets/NVIDIA_Overlay_p0QaybULZz.png)
+
 ## Features
 
 - **Keydoor Method**  
